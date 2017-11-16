@@ -1,0 +1,31 @@
+# 14. 未来与展望
+越来越多先进的控制系统业已投入商业化生产，价格也越来越低。同时，在线监测传感器的价格也明
+显下降。这意味着**中小规模的污水处理厂也可上马控制系统**，扩充了综合控制系统的潜在市场。
+现在我们需要建立方法对供排水自动化系统进行严谨的投资回报分析。这个方法还需反映出自动化对
+水厂设计的助力，更要考虑我们如何量化风险？如何对安全系数详加定义？如何通过灵活设计克服冲
+击负荷？如何进行模块化设计来从容应对未来的提量扩容？如何在考虑这些问题的同时将控制与自动
+化融入其中？等等诸多问题。
+
+决策制定是未来发展中的另一个关键。给水厂和污水厂并不是孤立的，而是庞大的城市水网中的
+一小部分。ICA的规划和布局需要系统化考虑，**追求**其水平及纵深两个维度的应用。系统化还包括
+供水系统。智能水网的概念已经兴起，2011年3月第一届智能水网的国际研讨会在首尔举办。一个智能水网
+会通过一系列传感器、数字通信工具、计算机控制网络和执行器将水从供给侧送往消费侧。其终极目标是
+减少水资源浪费、保障水质和维持水网高效持续的运作。智能水网可以自动探知、分析管网缺陷，并对其
+做出及时响应，实现水网设施的最大化利用(Olsson, 2011b)。它有必要么？一个智能水网可将各类不同的
+水源统筹起来，其中包括地表水、地下水之类的传统水源，也包括脱盐水等新型工艺产生的回用水源。每股
+水需要根据其水质赋予不同的用途，传送至不同的地点。而这些都需要进行实时的检测与控制。
+
+另一方面，组织机构的统合也应顺应技术层面的统合开展，否则供排水一体化运维没有抓手，无从管理。
+德国的流域协会与英国的水协都是这种机构统合的成功案例。
+
+作为分布式系统的需求正在逐年升高。Decentralized systems have become increasingly in
+demand since they can offer wastewater source separation,
+flexibility, water and nutrient reuse in a more economically
+feasible way than many centralized systems. In order to be
+acceptable a small wastewater treatment plant has to provide
+a sufficiently good effluent quality for a specific use. Thus, it
+has to offer advanced wastewater treatment, and at the same
+time be cost and energy efficient and easy to operate. Automation
+will become a crucial part of any decentralized plant,
+since the plant has to work autonomously. The potential of
+ICA in decentralized operation is considered in Olsson (2011c).
