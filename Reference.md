@@ -1,4 +1,4 @@
-# references
+# References
 Abusam, A., Keesman, K.J., 2009. Dynamic modeling of sludge
 compaction and consolidation processes in wastewater
 secondary settling tanks. Water Environ. Res. 81 (1), 51-56.
@@ -993,8 +993,8 @@ model. In: Patry, G.G., Chapman, D. (Eds.), Dynamic Modelling
 and Expert Systems in Wastewater Engineering. Lewis,
 Chelsea, MI, USA, pp. 59-81.
 
-Vrecko, D., Hvala, N., Stare, A., Burica, O., Strazar, M., Levstek, M.,
-Cerar, P., Podbevsek, S., 2006. Improvement of ammonia
+Vrecko, D., Hvala, N., Stare, A., Burica, O., Strazar, M., Levstek, M.,
+Cerar, P., Podbevsek, S., 2006. Improvement of ammonia
 removal in activated sludge process with feedforwardfeedback
 aeration controllers. Water Sci. Technol. 53 (4-5),
 125-132.
