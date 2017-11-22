@@ -77,8 +77,7 @@
 
 ### Corominas, L., Villez, K., Aguado, D., Rieger, L., Rosen, C., Vanrolleghem, P.A., 2010. Performance evaluation of fault detection methods for wastewater treatment processes. Biotechnol. Bioeng. 108, 333-344.
 
-### Daigger, G.T., 2011. A practitioner’s perspective on the uses and future developments for wastewater treatment modelling.
-Water Sci. Technol. 63, 516-526. 
+### Daigger, G.T., 2011. A practitioner’s perspective on the uses and future developments for wastewater treatment modelling. Water Sci. Technol. 63, 516-526. 
 
 ### Dapena-Mora, A., Van Hulle, S.W.H., Campos, J.L., Me´ndez, R., Vanrolleghem, P.A., Jetten, M., 2004. Enrichment of anammox biomass from municipal activated sludge: experimental and modelling results. J. Chem. Technol. Biotechnol. 79 (12), 1421-1428.
 
@@ -464,8 +463,7 @@ Water Sci. Technol. 63, 516-526.
 
 ### Yuan, Z., Blackall, L., 2002. Sludge population optimisation, a new dimension for the control of biological wastewater treatment systems. Water Res. 36 (2), 482-490.
 
-### Yuan, Z., Keller, J., 2004. Integrated control of nitrate recirculation and external carbon addition in a predenitrification system.
-Water Sci. Technol. 48 (11), 345-354.
+### Yuan, Z., Keller, J., 2004. Integrated control of nitrate recirculation and external carbon addition in a predenitrification system. Water Sci. Technol. 48 (11), 345-354.
 
 ### Yuan, Z., Oehmen, A., Peng, Y., Ma, Y., Keller, J., 2008. Sludge Population Optimisation in Biological Nutrient Removal Wastewater Treatment Systems through On-line Process Control: A Review. In: Reviews in Environmental Science and Biotechnology. Springer Verlag.
 
