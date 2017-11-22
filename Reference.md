@@ -35,7 +35,7 @@
 
 ### Benedetti, L., Prat, P., Nopens, I., Poch, M., Turon, C., De Baets, B., Comas, J., 2009. A new rule generation method to develop a decision support system for integrated management at river basin scale. Water Sci. Technol. 60 (8), 2035-2040.
 
-### Bernard, O., Chachuat, B., He´ llas, A., Le Dantec, B., Sialve, B., Steyer, J.-P., Lardon, L., Neveu, P., Lambert, S., Gallop, J., Dixon, M., Ratini, P., Quintaba, A., Frattesi, S., Lema, J.M., Roca, E., Ruiz, G., Rodriguez, J., Franco, A., Vanrolleghem, P., Zaher, U., De Pauw, D.J.W., De Neve, K., Lievens, K., Dochain, D., Schoefs, O., Fibrianto, H., Farina, R., Alcaraz Gonzalez, V., Gonzalez Alvares, V., Lemaire, P., Martinez, J.A., Esandi, F., Duclaud, O., Lavigne, J.F., 2005. An integrated system to remote monitor and control anaerobic wastewater treatment plants through the Internet. Water Sci. Technol. 52 (1e2), 457-464.
+### Bernard, O., Chachuat, B., He´ llas, A., Le Dantec, B., Sialve, B., Steyer, J.-P., Lardon, L., Neveu, P., Lambert, S., Gallop, J., Dixon, M., Ratini, P., Quintaba, A., Frattesi, S., Lema, J.M., Roca, E., Ruiz, G., Rodriguez, J., Franco, A., Vanrolleghem, P., Zaher, U., De Pauw, D.J.W., De Neve, K., Lievens, K., Dochain, D., Schoefs, O., Fibrianto, H., Farina, R., Alcaraz Gonzalez, V., Gonzalez Alvares, V., Lemaire, P., Martinez, J.A., Esandi, F., Duclaud, O., Lavigne, J.F., 2005. An integrated system to remote monitor and control anaerobic wastewater treatment plants through the Internet. Water Sci. Technol. 52 (1-2), 457-464.
 
 ### Bracken, B.D., Flanagan, M.J., 1977. Design recommendations for automatic dissolved oxygen control. Prog. Water Technol. 9 (5e6), 551-555.
 
