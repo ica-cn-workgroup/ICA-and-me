@@ -1,2 +1,4 @@
-# ICA-and-me
-Olssen教授的ICA and me 翻译群
+# 我与ICA
+
+
+
